@@ -5,8 +5,6 @@
   </a>
 
   <h3 align="center">E-Commerce Website</h3>
-  
-  <h4 align="center">Demo: <a href="https://next-ecommerce-example.vercel.app/">https://next-ecommerce-example.vercel.app/</a></h4>
 
   <p align="center">
     An e-commerce website example built with Next.js that I made in 1 week as a self challenge. There are some issues that I will handle later. Using Firebase as backend.

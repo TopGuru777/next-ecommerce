@@ -1,22 +1,22 @@
 <br />
 <p align="center">
-  <a href="https://github.com/anilsenay/next-e-commerce">
+  <a href="https://github.com/topguru777/next-ecommerce">
     <img src="https://i.ibb.co/ZzG3GtN/index.png" alt="Header photo" >
   </a>
 
   <h3 align="center">E-Commerce Website</h3>
   
-  <h4 align="center">Demo: <a href="https://next-e-commerce-example.vercel.app/">https://next-e-commerce-example.vercel.app/</a></h4>
+  <h4 align="center">Demo: <a href="https://next-ecommerce-example.vercel.app/">https://next-ecommerce-example.vercel.app/</a></h4>
 
   <p align="center">
     An e-commerce website example built with Next.js that I made in 1 week as a self challenge. There are some issues that I will handle later. Using Firebase as backend.
     <br />
     <br />
-    <a href="https://twitter.com/anilsenay">Contact me</a>
+    <a href="https://twitter.com/topguru777">Contact me</a>
     ·
-    <a href="https://github.com/anilsenay/next-e-commerce/issues">Report Bug</a>
+    <a href="https://github.com/topguru777/next-ecommerce/issues">Report Bug</a>
     ·
-    <a href="https://github.com/anilsenay/next-e-commerce/issues">Request Feature</a>
+    <a href="https://github.com/topguru777/next-ecommerce/issues">Request Feature</a>
   </p>
 </p>
 
@@ -102,8 +102,8 @@ I saw a UI design on Dribbble by [Anton Mikhaltsov](https://dribbble.com/shots/9
 2. Clone the repo and change the directory
 
 ```sh
-git clone https://github.com/anilsenay/next-e-commerce.git
-cd next-e-commerce
+git clone https://github.com/topguru777/next-ecommerce.git
+cd next-ecommerce
 ```
 
 3. Install NPM packages
@@ -112,7 +112,7 @@ cd next-e-commerce
 npm install
 ```
 
-4. Create your .env.local file on root folder(next-e-commerce) with this content. Put your firebase keys.
+4. Create your .env.local file on root folder(next-ecommerce) with this content. Put your firebase keys.
 
 ```
 NEXT_PUBLIC_FIREBASE_API_KEY = your-firebase-api-key
@@ -177,6 +177,6 @@ Distributed under the GPL License. See `LICENSE` for more information.
 
 ## Contact
 
-[@anilsenay](https://twitter.com/anilsenay)
+[@topguru777](https://twitter.com/topguru777)
 
-Project Link: [https://github.com/anilsenay/next-e-commerce](https://github.com/anilsenay/next-e-commerce)
+Project Link: [https://github.com/topguru777/next-ecommerce](https://github.com/topguru777/next-ecommerce)
